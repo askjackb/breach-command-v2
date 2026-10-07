@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+    />
+    <meta name="theme-color" content="#10191d" />
+    <title>Breach Command · Endless Defense</title>
+  </head>
+  <body>
+    <canvas id="world" aria-label="3D battlefield"></canvas>
+    <div id="hud">
+      <header>
+        <div class="brand">
+          BREACH<span>COMMAND</span><small>COLONY DEFENSE / SECTOR 09</small>
+        </div>
+        <div id="stats"></div>
+        <button id="commander">Commander</button
+        ><button id="signals">Signals</button><button id="home">Recenter</button
+        ><button id="audio">Audio on</button>
+      </header>
+      <div id="wavebar"></div>
+      <aside id="inspect"></aside>
+      <div id="choices"></div>
+      <aside id="tree" hidden></aside>
+      <footer>
+        <div id="builds"></div>
+        <div id="actions"></div>
+        <div id="placement" hidden>
+          <span>Choose a position on the terrain</span
+          ><button id="confirm">Construct</button
+          ><button id="cancel">Cancel</button>
+        </div>
+        <div class="hint">
+          Drag to orbit · right-drag to pan · scroll to zoom / Touch: two
+          fingers move, pinch & twist camera
+        </div>
+      </footer>
+    </div>
+    <div id="toast" role="status"></div>
+    <div id="menu" class="scrim">
+      <section>
+        <div class="eyebrow">EXOPLANET MINING AUTHORITY</div>
+        <h1>BREACH<br /><span>COMMAND</span></h1>
+        <p>
+          Your machines disturb something beneath the surface.<br />Build.
+          Divert. Endure.
+        </p>
+        <div class="brief">
+          <b>ENDLESS / PROCEDURAL / REAL TIME</b>
+          <p>
+            Defend the command reactor. Mining attracts vibration hunters;
+            firing attracts heat hunters. Decoys reshape their intentions. Every
+            tenth wave ends with a boss. Your run ends when the reactor falls.
+          </p>
+        </div>
+        <label
+          >Commander doctrine<select id="doctrine">
+            <option value="engineer">Engineer · +25% repair efficiency</option>
+            <option value="tactician">
+              Tactician · shorter ability cooldowns
+            </option>
+            <option value="prospector">Prospector · +20% mining income</option>
+          </select></label
+        ><button id="start" class="primary">ESTABLISH COLONY →</button
+        ><small id="record"></small>
+        <details>
+          <summary>Field manual</summary>
+          <p>
+            Select a structure to upgrade, repair or sell. Select a map feature
+            to activate it. Build generators for power, mines for alloy, and
+            heat/vibration decoys to divert enemies. Orbital strike targets
+            terrain; overdrive boosts weapons; field repair heals nearby
+            structures. Upgrade choices never pause combat.
+          </p>
+        </details>
+      </section>
+    </div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

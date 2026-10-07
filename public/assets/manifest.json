@@ -1,0 +1,298 @@
+[
+  {
+    "name": "autocannon",
+    "file": "models/autocannon.json"
+  },
+  {
+    "name": "autocannon-tier1",
+    "file": "models/autocannon-tier1.json"
+  },
+  {
+    "name": "autocannon-tier2",
+    "file": "models/autocannon-tier2.json"
+  },
+  {
+    "name": "autocannon-tier3-0",
+    "file": "models/autocannon-tier3-0.json"
+  },
+  {
+    "name": "autocannon-tier3-1",
+    "file": "models/autocannon-tier3-1.json"
+  },
+  {
+    "name": "railgun",
+    "file": "models/railgun.json"
+  },
+  {
+    "name": "railgun-tier1",
+    "file": "models/railgun-tier1.json"
+  },
+  {
+    "name": "railgun-tier2",
+    "file": "models/railgun-tier2.json"
+  },
+  {
+    "name": "railgun-tier3-0",
+    "file": "models/railgun-tier3-0.json"
+  },
+  {
+    "name": "railgun-tier3-1",
+    "file": "models/railgun-tier3-1.json"
+  },
+  {
+    "name": "missile",
+    "file": "models/missile.json"
+  },
+  {
+    "name": "missile-tier1",
+    "file": "models/missile-tier1.json"
+  },
+  {
+    "name": "missile-tier2",
+    "file": "models/missile-tier2.json"
+  },
+  {
+    "name": "missile-tier3-0",
+    "file": "models/missile-tier3-0.json"
+  },
+  {
+    "name": "missile-tier3-1",
+    "file": "models/missile-tier3-1.json"
+  },
+  {
+    "name": "flak",
+    "file": "models/flak.json"
+  },
+  {
+    "name": "flak-tier1",
+    "file": "models/flak-tier1.json"
+  },
+  {
+    "name": "flak-tier2",
+    "file": "models/flak-tier2.json"
+  },
+  {
+    "name": "flak-tier3-0",
+    "file": "models/flak-tier3-0.json"
+  },
+  {
+    "name": "flak-tier3-1",
+    "file": "models/flak-tier3-1.json"
+  },
+  {
+    "name": "incinerator",
+    "file": "models/incinerator.json"
+  },
+  {
+    "name": "incinerator-tier1",
+    "file": "models/incinerator-tier1.json"
+  },
+  {
+    "name": "incinerator-tier2",
+    "file": "models/incinerator-tier2.json"
+  },
+  {
+    "name": "incinerator-tier3-0",
+    "file": "models/incinerator-tier3-0.json"
+  },
+  {
+    "name": "incinerator-tier3-1",
+    "file": "models/incinerator-tier3-1.json"
+  },
+  {
+    "name": "arc",
+    "file": "models/arc.json"
+  },
+  {
+    "name": "arc-tier1",
+    "file": "models/arc-tier1.json"
+  },
+  {
+    "name": "arc-tier2",
+    "file": "models/arc-tier2.json"
+  },
+  {
+    "name": "arc-tier3-0",
+    "file": "models/arc-tier3-0.json"
+  },
+  {
+    "name": "arc-tier3-1",
+    "file": "models/arc-tier3-1.json"
+  },
+  {
+    "name": "cryo",
+    "file": "models/cryo.json"
+  },
+  {
+    "name": "cryo-tier1",
+    "file": "models/cryo-tier1.json"
+  },
+  {
+    "name": "cryo-tier2",
+    "file": "models/cryo-tier2.json"
+  },
+  {
+    "name": "cryo-tier3-0",
+    "file": "models/cryo-tier3-0.json"
+  },
+  {
+    "name": "cryo-tier3-1",
+    "file": "models/cryo-tier3-1.json"
+  },
+  {
+    "name": "mortar",
+    "file": "models/mortar.json"
+  },
+  {
+    "name": "mortar-tier1",
+    "file": "models/mortar-tier1.json"
+  },
+  {
+    "name": "mortar-tier2",
+    "file": "models/mortar-tier2.json"
+  },
+  {
+    "name": "mortar-tier3-0",
+    "file": "models/mortar-tier3-0.json"
+  },
+  {
+    "name": "mortar-tier3-1",
+    "file": "models/mortar-tier3-1.json"
+  },
+  {
+    "name": "drone",
+    "file": "models/drone.json"
+  },
+  {
+    "name": "drone-tier1",
+    "file": "models/drone-tier1.json"
+  },
+  {
+    "name": "drone-tier2",
+    "file": "models/drone-tier2.json"
+  },
+  {
+    "name": "drone-tier3-0",
+    "file": "models/drone-tier3-0.json"
+  },
+  {
+    "name": "drone-tier3-1",
+    "file": "models/drone-tier3-1.json"
+  },
+  {
+    "name": "seismic",
+    "file": "models/seismic.json"
+  },
+  {
+    "name": "seismic-tier1",
+    "file": "models/seismic-tier1.json"
+  },
+  {
+    "name": "seismic-tier2",
+    "file": "models/seismic-tier2.json"
+  },
+  {
+    "name": "seismic-tier3-0",
+    "file": "models/seismic-tier3-0.json"
+  },
+  {
+    "name": "seismic-tier3-1",
+    "file": "models/seismic-tier3-1.json"
+  },
+  {
+    "name": "mine",
+    "file": "models/mine.json"
+  },
+  {
+    "name": "generator",
+    "file": "models/generator.json"
+  },
+  {
+    "name": "heat",
+    "file": "models/heat.json"
+  },
+  {
+    "name": "vibration",
+    "file": "models/vibration.json"
+  },
+  {
+    "name": "reactor",
+    "file": "models/reactor.json"
+  },
+  {
+    "name": "enemy-0",
+    "file": "models/enemy-0.json"
+  },
+  {
+    "name": "enemy-1",
+    "file": "models/enemy-1.json"
+  },
+  {
+    "name": "enemy-2",
+    "file": "models/enemy-2.json"
+  },
+  {
+    "name": "enemy-3",
+    "file": "models/enemy-3.json"
+  },
+  {
+    "name": "enemy-4",
+    "file": "models/enemy-4.json"
+  },
+  {
+    "name": "enemy-5",
+    "file": "models/enemy-5.json"
+  },
+  {
+    "name": "enemy-6",
+    "file": "models/enemy-6.json"
+  },
+  {
+    "name": "enemy-7",
+    "file": "models/enemy-7.json"
+  },
+  {
+    "name": "enemy-8",
+    "file": "models/enemy-8.json"
+  },
+  {
+    "name": "enemy-9",
+    "file": "models/enemy-9.json"
+  },
+  {
+    "name": "boss-0",
+    "file": "models/boss-0.json"
+  },
+  {
+    "name": "boss-1",
+    "file": "models/boss-1.json"
+  },
+  {
+    "name": "boss-2",
+    "file": "models/boss-2.json"
+  },
+  {
+    "name": "feature-0",
+    "file": "models/feature-0.json"
+  },
+  {
+    "name": "feature-1",
+    "file": "models/feature-1.json"
+  },
+  {
+    "name": "feature-2",
+    "file": "models/feature-2.json"
+  },
+  {
+    "name": "feature-3",
+    "file": "models/feature-3.json"
+  },
+  {
+    "name": "feature-4",
+    "file": "models/feature-4.json"
+  },
+  {
+    "name": "feature-5",
+    "file": "models/feature-5.json"
+  }
+]

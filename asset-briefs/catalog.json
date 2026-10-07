@@ -1,0 +1,685 @@
+{
+  "version": 2,
+  "notes": "Production brief catalog; not a runtime asset registry. currentExport=null marks additional proposed production deliverables.",
+  "assets": [
+    {
+      "id": "autocannon",
+      "title": "Autocannon \u2014 base configuration",
+      "brief": "towers/autocannon.md",
+      "currentExport": "models/autocannon.json"
+    },
+    {
+      "id": "autocannon-tier1",
+      "title": "Autocannon \u2014 upgrade 1",
+      "brief": "towers/autocannon-tier1.md",
+      "currentExport": "models/autocannon-tier1.json"
+    },
+    {
+      "id": "autocannon-tier2",
+      "title": "Autocannon \u2014 upgrade 2",
+      "brief": "towers/autocannon-tier2.md",
+      "currentExport": "models/autocannon-tier2.json"
+    },
+    {
+      "id": "autocannon-tier3-0",
+      "title": "Autocannon \u2014 upgrade 3 / Sabot",
+      "brief": "towers/autocannon-tier3-0.md",
+      "currentExport": "models/autocannon-tier3-0.json"
+    },
+    {
+      "id": "autocannon-tier3-1",
+      "title": "Autocannon \u2014 upgrade 3 / Cyclone",
+      "brief": "towers/autocannon-tier3-1.md",
+      "currentExport": "models/autocannon-tier3-1.json"
+    },
+    {
+      "id": "railgun",
+      "title": "Railgun \u2014 base configuration",
+      "brief": "towers/railgun.md",
+      "currentExport": "models/railgun.json"
+    },
+    {
+      "id": "railgun-tier1",
+      "title": "Railgun \u2014 upgrade 1",
+      "brief": "towers/railgun-tier1.md",
+      "currentExport": "models/railgun-tier1.json"
+    },
+    {
+      "id": "railgun-tier2",
+      "title": "Railgun \u2014 upgrade 2",
+      "brief": "towers/railgun-tier2.md",
+      "currentExport": "models/railgun-tier2.json"
+    },
+    {
+      "id": "railgun-tier3-0",
+      "title": "Railgun \u2014 upgrade 3 / Lance",
+      "brief": "towers/railgun-tier3-0.md",
+      "currentExport": "models/railgun-tier3-0.json"
+    },
+    {
+      "id": "railgun-tier3-1",
+      "title": "Railgun \u2014 upgrade 3 / Repeater",
+      "brief": "towers/railgun-tier3-1.md",
+      "currentExport": "models/railgun-tier3-1.json"
+    },
+    {
+      "id": "missile",
+      "title": "Missile battery \u2014 base configuration",
+      "brief": "towers/missile.md",
+      "currentExport": "models/missile.json"
+    },
+    {
+      "id": "missile-tier1",
+      "title": "Missile battery \u2014 upgrade 1",
+      "brief": "towers/missile-tier1.md",
+      "currentExport": "models/missile-tier1.json"
+    },
+    {
+      "id": "missile-tier2",
+      "title": "Missile battery \u2014 upgrade 2",
+      "brief": "towers/missile-tier2.md",
+      "currentExport": "models/missile-tier2.json"
+    },
+    {
+      "id": "missile-tier3-0",
+      "title": "Missile battery \u2014 upgrade 3 / Cluster",
+      "brief": "towers/missile-tier3-0.md",
+      "currentExport": "models/missile-tier3-0.json"
+    },
+    {
+      "id": "missile-tier3-1",
+      "title": "Missile battery \u2014 upgrade 3 / Barrage",
+      "brief": "towers/missile-tier3-1.md",
+      "currentExport": "models/missile-tier3-1.json"
+    },
+    {
+      "id": "flak",
+      "title": "Flak battery \u2014 base configuration",
+      "brief": "towers/flak.md",
+      "currentExport": "models/flak.json"
+    },
+    {
+      "id": "flak-tier1",
+      "title": "Flak battery \u2014 upgrade 1",
+      "brief": "towers/flak-tier1.md",
+      "currentExport": "models/flak-tier1.json"
+    },
+    {
+      "id": "flak-tier2",
+      "title": "Flak battery \u2014 upgrade 2",
+      "brief": "towers/flak-tier2.md",
+      "currentExport": "models/flak-tier2.json"
+    },
+    {
+      "id": "flak-tier3-0",
+      "title": "Flak battery \u2014 upgrade 3 / Shrapnel",
+      "brief": "towers/flak-tier3-0.md",
+      "currentExport": "models/flak-tier3-0.json"
+    },
+    {
+      "id": "flak-tier3-1",
+      "title": "Flak battery \u2014 upgrade 3 / Interceptor",
+      "brief": "towers/flak-tier3-1.md",
+      "currentExport": "models/flak-tier3-1.json"
+    },
+    {
+      "id": "incinerator",
+      "title": "Incinerator \u2014 base configuration",
+      "brief": "towers/incinerator.md",
+      "currentExport": "models/incinerator.json"
+    },
+    {
+      "id": "incinerator-tier1",
+      "title": "Incinerator \u2014 upgrade 1",
+      "brief": "towers/incinerator-tier1.md",
+      "currentExport": "models/incinerator-tier1.json"
+    },
+    {
+      "id": "incinerator-tier2",
+      "title": "Incinerator \u2014 upgrade 2",
+      "brief": "towers/incinerator-tier2.md",
+      "currentExport": "models/incinerator-tier2.json"
+    },
+    {
+      "id": "incinerator-tier3-0",
+      "title": "Incinerator \u2014 upgrade 3 / Inferno",
+      "brief": "towers/incinerator-tier3-0.md",
+      "currentExport": "models/incinerator-tier3-0.json"
+    },
+    {
+      "id": "incinerator-tier3-1",
+      "title": "Incinerator \u2014 upgrade 3 / Pressure",
+      "brief": "towers/incinerator-tier3-1.md",
+      "currentExport": "models/incinerator-tier3-1.json"
+    },
+    {
+      "id": "arc",
+      "title": "Arc emitter \u2014 base configuration",
+      "brief": "towers/arc.md",
+      "currentExport": "models/arc.json"
+    },
+    {
+      "id": "arc-tier1",
+      "title": "Arc emitter \u2014 upgrade 1",
+      "brief": "towers/arc-tier1.md",
+      "currentExport": "models/arc-tier1.json"
+    },
+    {
+      "id": "arc-tier2",
+      "title": "Arc emitter \u2014 upgrade 2",
+      "brief": "towers/arc-tier2.md",
+      "currentExport": "models/arc-tier2.json"
+    },
+    {
+      "id": "arc-tier3-0",
+      "title": "Arc emitter \u2014 upgrade 3 / Conduit",
+      "brief": "towers/arc-tier3-0.md",
+      "currentExport": "models/arc-tier3-0.json"
+    },
+    {
+      "id": "arc-tier3-1",
+      "title": "Arc emitter \u2014 upgrade 3 / Capacitor",
+      "brief": "towers/arc-tier3-1.md",
+      "currentExport": "models/arc-tier3-1.json"
+    },
+    {
+      "id": "cryo",
+      "title": "Cryo projector \u2014 base configuration",
+      "brief": "towers/cryo.md",
+      "currentExport": "models/cryo.json"
+    },
+    {
+      "id": "cryo-tier1",
+      "title": "Cryo projector \u2014 upgrade 1",
+      "brief": "towers/cryo-tier1.md",
+      "currentExport": "models/cryo-tier1.json"
+    },
+    {
+      "id": "cryo-tier2",
+      "title": "Cryo projector \u2014 upgrade 2",
+      "brief": "towers/cryo-tier2.md",
+      "currentExport": "models/cryo-tier2.json"
+    },
+    {
+      "id": "cryo-tier3-0",
+      "title": "Cryo projector \u2014 upgrade 3 / Permafrost",
+      "brief": "towers/cryo-tier3-0.md",
+      "currentExport": "models/cryo-tier3-0.json"
+    },
+    {
+      "id": "cryo-tier3-1",
+      "title": "Cryo projector \u2014 upgrade 3 / Compression",
+      "brief": "towers/cryo-tier3-1.md",
+      "currentExport": "models/cryo-tier3-1.json"
+    },
+    {
+      "id": "mortar",
+      "title": "Mortar \u2014 base configuration",
+      "brief": "towers/mortar.md",
+      "currentExport": "models/mortar.json"
+    },
+    {
+      "id": "mortar-tier1",
+      "title": "Mortar \u2014 upgrade 1",
+      "brief": "towers/mortar-tier1.md",
+      "currentExport": "models/mortar-tier1.json"
+    },
+    {
+      "id": "mortar-tier2",
+      "title": "Mortar \u2014 upgrade 2",
+      "brief": "towers/mortar-tier2.md",
+      "currentExport": "models/mortar-tier2.json"
+    },
+    {
+      "id": "mortar-tier3-0",
+      "title": "Mortar \u2014 upgrade 3 / Seismic shell",
+      "brief": "towers/mortar-tier3-0.md",
+      "currentExport": "models/mortar-tier3-0.json"
+    },
+    {
+      "id": "mortar-tier3-1",
+      "title": "Mortar \u2014 upgrade 3 / Autoloader",
+      "brief": "towers/mortar-tier3-1.md",
+      "currentExport": "models/mortar-tier3-1.json"
+    },
+    {
+      "id": "drone",
+      "title": "Drone hangar \u2014 base configuration",
+      "brief": "towers/drone.md",
+      "currentExport": "models/drone.json"
+    },
+    {
+      "id": "drone-tier1",
+      "title": "Drone hangar \u2014 upgrade 1",
+      "brief": "towers/drone-tier1.md",
+      "currentExport": "models/drone-tier1.json"
+    },
+    {
+      "id": "drone-tier2",
+      "title": "Drone hangar \u2014 upgrade 2",
+      "brief": "towers/drone-tier2.md",
+      "currentExport": "models/drone-tier2.json"
+    },
+    {
+      "id": "drone-tier3-0",
+      "title": "Drone hangar \u2014 upgrade 3 / Heavy drones",
+      "brief": "towers/drone-tier3-0.md",
+      "currentExport": "models/drone-tier3-0.json"
+    },
+    {
+      "id": "drone-tier3-1",
+      "title": "Drone hangar \u2014 upgrade 3 / Swarm bay",
+      "brief": "towers/drone-tier3-1.md",
+      "currentExport": "models/drone-tier3-1.json"
+    },
+    {
+      "id": "seismic",
+      "title": "Seismic driver \u2014 base configuration",
+      "brief": "towers/seismic.md",
+      "currentExport": "models/seismic.json"
+    },
+    {
+      "id": "seismic-tier1",
+      "title": "Seismic driver \u2014 upgrade 1",
+      "brief": "towers/seismic-tier1.md",
+      "currentExport": "models/seismic-tier1.json"
+    },
+    {
+      "id": "seismic-tier2",
+      "title": "Seismic driver \u2014 upgrade 2",
+      "brief": "towers/seismic-tier2.md",
+      "currentExport": "models/seismic-tier2.json"
+    },
+    {
+      "id": "seismic-tier3-0",
+      "title": "Seismic driver \u2014 upgrade 3 / Faultline",
+      "brief": "towers/seismic-tier3-0.md",
+      "currentExport": "models/seismic-tier3-0.json"
+    },
+    {
+      "id": "seismic-tier3-1",
+      "title": "Seismic driver \u2014 upgrade 3 / Resonance",
+      "brief": "towers/seismic-tier3-1.md",
+      "currentExport": "models/seismic-tier3-1.json"
+    },
+    {
+      "id": "reactor",
+      "title": "Command reactor",
+      "brief": "structures/reactor.md",
+      "currentExport": "models/reactor.json"
+    },
+    {
+      "id": "mine",
+      "title": "Mining rig",
+      "brief": "structures/mine.md",
+      "currentExport": "models/mine.json"
+    },
+    {
+      "id": "generator",
+      "title": "Power plant",
+      "brief": "structures/generator.md",
+      "currentExport": "models/generator.json"
+    },
+    {
+      "id": "heat",
+      "title": "Heat decoy",
+      "brief": "structures/heat.md",
+      "currentExport": "models/heat.json"
+    },
+    {
+      "id": "vibration",
+      "title": "Seismic lure",
+      "brief": "structures/vibration.md",
+      "currentExport": "models/vibration.json"
+    },
+    {
+      "id": "enemy-0",
+      "title": "Skitter",
+      "brief": "enemies/enemy-0.md",
+      "currentExport": "models/enemy-0.json"
+    },
+    {
+      "id": "enemy-1",
+      "title": "Bastion",
+      "brief": "enemies/enemy-1.md",
+      "currentExport": "models/enemy-1.json"
+    },
+    {
+      "id": "enemy-2",
+      "title": "Razor",
+      "brief": "enemies/enemy-2.md",
+      "currentExport": "models/enemy-2.json"
+    },
+    {
+      "id": "enemy-3",
+      "title": "Burrower",
+      "brief": "enemies/enemy-3.md",
+      "currentExport": "models/enemy-3.json"
+    },
+    {
+      "id": "enemy-4",
+      "title": "Climber",
+      "brief": "enemies/enemy-4.md",
+      "currentExport": "models/enemy-4.json"
+    },
+    {
+      "id": "enemy-5",
+      "title": "Wasp",
+      "brief": "enemies/enemy-5.md",
+      "currentExport": "models/enemy-5.json"
+    },
+    {
+      "id": "enemy-6",
+      "title": "Artillery",
+      "brief": "enemies/enemy-6.md",
+      "currentExport": "models/enemy-6.json"
+    },
+    {
+      "id": "enemy-7",
+      "title": "Mender",
+      "brief": "enemies/enemy-7.md",
+      "currentExport": "models/enemy-7.json"
+    },
+    {
+      "id": "enemy-8",
+      "title": "Tracker",
+      "brief": "enemies/enemy-8.md",
+      "currentExport": "models/enemy-8.json"
+    },
+    {
+      "id": "enemy-9",
+      "title": "Brood carrier",
+      "brief": "enemies/enemy-9.md",
+      "currentExport": "models/enemy-9.json"
+    },
+    {
+      "id": "boss-0",
+      "title": "THE FAULT EATER",
+      "brief": "bosses/boss-0.md",
+      "currentExport": "models/boss-0.json"
+    },
+    {
+      "id": "boss-1",
+      "title": "THE WALKING SIEGE",
+      "brief": "bosses/boss-1.md",
+      "currentExport": "models/boss-1.json"
+    },
+    {
+      "id": "boss-2",
+      "title": "THE BREACH QUEEN",
+      "brief": "bosses/boss-2.md",
+      "currentExport": "models/boss-2.json"
+    },
+    {
+      "id": "feature-0",
+      "title": "Seismic beacon",
+      "brief": "map-features/feature-0.md",
+      "currentExport": "models/feature-0.json"
+    },
+    {
+      "id": "feature-1",
+      "title": "Coolant vent",
+      "brief": "map-features/feature-1.md",
+      "currentExport": "models/feature-1.json"
+    },
+    {
+      "id": "feature-2",
+      "title": "Volatile deposit",
+      "brief": "map-features/feature-2.md",
+      "currentExport": "models/feature-2.json"
+    },
+    {
+      "id": "feature-3",
+      "title": "Power relay",
+      "brief": "map-features/feature-3.md",
+      "currentExport": "models/feature-3.json"
+    },
+    {
+      "id": "feature-4",
+      "title": "Fractured formation",
+      "brief": "map-features/feature-4.md",
+      "currentExport": "models/feature-4.json"
+    },
+    {
+      "id": "feature-5",
+      "title": "Salvage crawler",
+      "brief": "map-features/feature-5.md",
+      "currentExport": "models/feature-5.json"
+    },
+    {
+      "id": "basalt-ground",
+      "title": "Basalt battlefield surface",
+      "brief": "environment/basalt-ground.md",
+      "currentExport": null
+    },
+    {
+      "id": "basalt-outcrop",
+      "title": "Fractured basalt outcrop kit",
+      "brief": "environment/basalt-outcrop.md",
+      "currentExport": null
+    },
+    {
+      "id": "mineral-ground-variation",
+      "title": "Mineral dust and extraction surface variation",
+      "brief": "environment/mineral-ground-variation.md",
+      "currentExport": null
+    },
+    {
+      "id": "breach-mouth",
+      "title": "Enemy breach opening",
+      "brief": "environment/breach-mouth.md",
+      "currentExport": null
+    },
+    {
+      "id": "construction-pad",
+      "title": "Construction foundation and anchor set",
+      "brief": "environment/construction-pad.md",
+      "currentExport": null
+    },
+    {
+      "id": "damage-debris",
+      "title": "Damage and destruction debris kit",
+      "brief": "environment/damage-debris.md",
+      "currentExport": null
+    },
+    {
+      "id": "colony-decals",
+      "title": "Colony industrial decal atlas",
+      "brief": "environment/colony-decals.md",
+      "currentExport": null
+    },
+    {
+      "id": "metal-surface",
+      "title": "Industrial material library",
+      "brief": "environment/metal-surface.md",
+      "currentExport": null
+    },
+    {
+      "id": "biological-materials",
+      "title": "Biological material library",
+      "brief": "environment/biological-materials.md",
+      "currentExport": null
+    },
+    {
+      "id": "drone-unit",
+      "title": "Interceptor drone",
+      "brief": "environment/drone-unit.md",
+      "currentExport": null
+    },
+    {
+      "id": "sky-atmosphere",
+      "title": "Battlefield atmosphere and lighting reference",
+      "brief": "environment/sky-atmosphere.md",
+      "currentExport": null
+    },
+    {
+      "id": "weapon-autocannon",
+      "title": "Autocannon weapon presentation",
+      "brief": "vfx/weapon-autocannon.md",
+      "currentExport": null
+    },
+    {
+      "id": "weapon-railgun",
+      "title": "Railgun weapon presentation",
+      "brief": "vfx/weapon-railgun.md",
+      "currentExport": null
+    },
+    {
+      "id": "weapon-missile",
+      "title": "Missile battery weapon presentation",
+      "brief": "vfx/weapon-missile.md",
+      "currentExport": null
+    },
+    {
+      "id": "weapon-flak",
+      "title": "Flak battery weapon presentation",
+      "brief": "vfx/weapon-flak.md",
+      "currentExport": null
+    },
+    {
+      "id": "weapon-incinerator",
+      "title": "Incinerator weapon presentation",
+      "brief": "vfx/weapon-incinerator.md",
+      "currentExport": null
+    },
+    {
+      "id": "weapon-arc",
+      "title": "Arc emitter weapon presentation",
+      "brief": "vfx/weapon-arc.md",
+      "currentExport": null
+    },
+    {
+      "id": "weapon-cryo",
+      "title": "Cryo projector weapon presentation",
+      "brief": "vfx/weapon-cryo.md",
+      "currentExport": null
+    },
+    {
+      "id": "weapon-mortar",
+      "title": "Mortar weapon presentation",
+      "brief": "vfx/weapon-mortar.md",
+      "currentExport": null
+    },
+    {
+      "id": "weapon-drone",
+      "title": "Drone hangar weapon presentation",
+      "brief": "vfx/weapon-drone.md",
+      "currentExport": null
+    },
+    {
+      "id": "weapon-seismic",
+      "title": "Seismic driver weapon presentation",
+      "brief": "vfx/weapon-seismic.md",
+      "currentExport": null
+    },
+    {
+      "id": "ability-orbital-strike",
+      "title": "Orbital strike",
+      "brief": "vfx/ability-orbital-strike.md",
+      "currentExport": null
+    },
+    {
+      "id": "ability-overdrive",
+      "title": "Weapon overdrive",
+      "brief": "vfx/ability-overdrive.md",
+      "currentExport": null
+    },
+    {
+      "id": "ability-field-repair",
+      "title": "Field repair",
+      "brief": "vfx/ability-field-repair.md",
+      "currentExport": null
+    },
+    {
+      "id": "tower-icons",
+      "title": "Tower icon set",
+      "brief": "ui/tower-icons.md",
+      "currentExport": null
+    },
+    {
+      "id": "enemy-icons",
+      "title": "Enemy and boss identification icons",
+      "brief": "ui/enemy-icons.md",
+      "currentExport": null
+    },
+    {
+      "id": "commander-icons",
+      "title": "Commander ability and tree icons",
+      "brief": "ui/commander-icons.md",
+      "currentExport": null
+    },
+    {
+      "id": "resource-icons",
+      "title": "Economy and status symbols",
+      "brief": "ui/resource-icons.md",
+      "currentExport": null
+    },
+    {
+      "id": "signal-markers",
+      "title": "Heat and vibration overlays",
+      "brief": "ui/signal-markers.md",
+      "currentExport": null
+    },
+    {
+      "id": "selection-placement",
+      "title": "Selection and construction indicators",
+      "brief": "ui/selection-placement.md",
+      "currentExport": null
+    },
+    {
+      "id": "hud-surface-kit",
+      "title": "Adaptive HUD visual kit",
+      "brief": "ui/hud-surface-kit.md",
+      "currentExport": null
+    },
+    {
+      "id": "menu-title",
+      "title": "Breach Command title treatment",
+      "brief": "ui/menu-title.md",
+      "currentExport": null
+    },
+    {
+      "id": "map-feature-icons",
+      "title": "Interactive map feature icons",
+      "brief": "ui/map-feature-icons.md",
+      "currentExport": null
+    },
+    {
+      "id": "weapon-audio",
+      "title": "Weapon sound library",
+      "brief": "audio/weapon-audio.md",
+      "currentExport": null
+    },
+    {
+      "id": "creature-audio",
+      "title": "Enemy and boss sound library",
+      "brief": "audio/creature-audio.md",
+      "currentExport": null
+    },
+    {
+      "id": "colony-audio",
+      "title": "Colony and interaction sounds",
+      "brief": "audio/colony-audio.md",
+      "currentExport": null
+    },
+    {
+      "id": "commander-audio",
+      "title": "Commander ability sounds",
+      "brief": "audio/commander-audio.md",
+      "currentExport": null
+    },
+    {
+      "id": "ambience-music",
+      "title": "Battlefield atmosphere and music",
+      "brief": "audio/ambience-music.md",
+      "currentExport": null
+    },
+    {
+      "id": "interface-audio",
+      "title": "Interface feedback",
+      "brief": "audio/interface-audio.md",
+      "currentExport": null
+    }
+  ],
+  "briefsVersion": "2.0"
+}
